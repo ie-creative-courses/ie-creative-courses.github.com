@@ -848,4 +848,7 @@ section #title .credits.right {
   nav {
     display: none;
   }
+  .tab { 
+    text-indent:30px; 
+    }
 }
